@@ -7,6 +7,7 @@ The FIR filters correspond to 3 frequency bands:
 * Low Pass (0-500Hz)
 * Band Pass (550-3000Hz)
 * High Pass (Higher than 3000Hz)
+
 The filters and the digital logic have been written in Verilog hardware description language.
 The Line-In and Line-Out audio ports are used for input and processed output respectively.
 Different Switch combinations are used to select different FIR Filters.

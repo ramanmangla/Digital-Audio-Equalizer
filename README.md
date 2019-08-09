@@ -20,3 +20,6 @@ The HEX Display shows the band frequencies for the selected filters.
 * HEX Display (Output)
 * Line-Out port (Output)
 * VGA Display (Instructions)
+
+### The following frequency spectrum was generated for different band operations using Adobe Audition software:
+![Frequency Analysis](Frequency-Analysis.jpg)
